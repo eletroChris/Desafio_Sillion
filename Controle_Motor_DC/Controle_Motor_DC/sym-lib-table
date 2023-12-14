@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Controle_Motor_DC")(type "KiCad")(uri "${KIPRJMOD}/Controle_Motor_DC.kicad_sym")(options "")(descr ""))
+)
