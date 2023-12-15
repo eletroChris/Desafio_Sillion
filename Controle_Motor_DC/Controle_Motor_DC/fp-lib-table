@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Controle_Motor_DC")(type "KiCad")(uri "${KIPRJMOD}/Controle_Motor_DC.pretty")(options "")(descr ""))
+)
